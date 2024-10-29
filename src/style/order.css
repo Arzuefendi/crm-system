@@ -1,0 +1,30 @@
+.order table {
+  margin-left: 27%;
+  width: 60%;
+}
+@media (max-width: 640px) {
+  table {
+    margin-left: 20% !important;
+  }
+}
+@media (max-width: 530px) {
+  table {
+    margin-left: 15% !important;
+  }
+}
+@media (max-width: 430px) {
+  table {
+    margin-left: 6% !important;
+    overflow-x: hidden;
+  }
+}
+@media (max-width: 400px) {
+  table {
+    margin-left: 3% !important;
+  }
+}
+@media (max-width: 350px) {
+  table {
+    margin-left: 0 !important;
+  }
+}
